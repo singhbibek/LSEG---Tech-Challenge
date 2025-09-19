@@ -15,4 +15,7 @@ This Python-based tool queries metadata from cloud instances. Currently supports
 ## Usage
 Run the script to fetch metadata:
 
-python metadata_service.py
+python main.py
+
+## Requirements
+

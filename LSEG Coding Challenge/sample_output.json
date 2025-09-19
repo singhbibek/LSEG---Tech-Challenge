@@ -1,0 +1,15 @@
+
+{
+  "ami-id": "ami-0abcdef1234567890",
+  "hostname": "ip-172-31-16-139.ec2.internal",
+  "instance-id": "i-0123456789abcdef0",
+  "instance-type": "t2.micro",
+  "local-hostname": "ip-172-31-16-139.ec2.internal",
+  "local-ipv4": "172.31.16.139",
+  "public-hostname": "ec2-203-0-113-25.compute-1.amazonaws.com",
+  "public-ipv4": "203.0.113.25",
+  "reservation-id": "r-0abcdef1234567890",
+  "security-groups": "default",
+  "availability-zone": "us-east-1a",
+  "region": "us-east-1"
+}
